@@ -5,12 +5,6 @@
 **Location**: Live Online  
 **Cost**: $3,900  
 **CEUs**: 16 CEUs  
-**Instructors**:  
-- Munther Dahleh  
-- Stefanie Jegelka  
-- Devavrat Shah  
-- Caroline Uhler  
-- John Tsitsiklis  
 
 ---
 
